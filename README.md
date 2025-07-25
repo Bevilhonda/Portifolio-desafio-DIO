@@ -14,7 +14,8 @@ Bem-vindo ao meu portfólio! Este é um projeto pessoal que desenvolvi usando HT
 
 ## Como Visualizar
 
-1. O link do GitHub pages, pode ser acesso a seguir **https://gian-uc.github.io/js-developer-portfolio/**.
+1. O link do GitHub Pages pode ser acessado a seguir: **https://bevilhonda.github.io/Portifolio-desafio-DIO/**
+
 
 ## Estrutura do Projeto
 
