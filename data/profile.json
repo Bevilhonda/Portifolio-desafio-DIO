@@ -1,0 +1,91 @@
+{
+  "name": "Marcelo",
+  "photo": "https://avatars.githubusercontent.com/u/98859744?v=4",
+  "job": "Junior Developer",
+  "location": "Maringá - Paraná - BR",
+  "phone": " (44)",
+  "email": "m@gmail ",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "Csharp",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
+      }           
+    ],
+    "softSkills": [
+      "Proativo",
+      "Resiliente",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organizado"
+    ]
+  },
+  "languages": [
+    "Português BR"
+    
+  ],
+  "portfolio": [
+    
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/Bevilhonda/Portf-lio-Front-end-do-Zero-DIO-2024",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de um site Mundo Invertido",
+      "url": "https://github.com/Bevilhonda/Projeto-Mundo-Invertido-DIO-2024",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de carrosel do aranhaverso",
+      "url": "https://github.com/Bevilhonda/Projeto-Spider-DIO-2024",
+      "github": true
+    }
+    
+    
+  ],
+  "professionalExperience": [
+    {
+      "name": "Assistente de informática / Comécio de Cereais Ltda.",
+      "period": "Março/2020 à Setembro/2021",
+      "description": "Foi um grande prazer trabalhar com informática nesta empresa."
+    },
+    {
+      "name": "Agente de Mapeamento e Pesquisa / IBGE",
+      "period": "Julho/2022 à Dezembro/2022",
+      "description": "trabalhei no Instituto Brasileiro de Geografia e Estatística como Agente de Mapeamento e Pesquisa, fiz entrevistas com quase 3 mil pessoas ao longo de 6 meses fortalecendo o entendimento sobre empatia."
+    }
+  ]
+}
